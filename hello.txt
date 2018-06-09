@@ -1,2 +1,3 @@
 console.log("Привет, мир!");
 console.log("Привет, каждому!");
+console.log("Привет");
