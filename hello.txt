@@ -2,3 +2,4 @@ console.log("Привет, мир!");
 console.log("Привет, каждому!");
 console.log("Привет");
 console.log("Привет, мои дорогие друзья!");
+console.log("Рад Вас видеть!");
